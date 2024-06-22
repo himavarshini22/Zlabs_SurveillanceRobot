@@ -14,5 +14,3 @@
 Raja Gopal (AI Lead at ZLabs, ZOHO)
 Satya Sai (mecatronics and embedded)
 Himavarshini (Software and design)
-
->>>>>>> 3c4786d (added README.md)
