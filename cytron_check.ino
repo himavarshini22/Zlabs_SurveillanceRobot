@@ -1,8 +1,8 @@
 int DIR1 = 4; //right motor
 int PWM1 = 5;
-int DIR2 = 6; // left motor
-int PWM2 = 7;
-int Speed = 5;
+int DIR2 = 7; // left motor
+int PWM2 = 6;
+int Speed = 200;
 
 void setup() {
   pinMode(DIR1,OUTPUT);
