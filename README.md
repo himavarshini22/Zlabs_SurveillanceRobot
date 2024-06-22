@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#robot
-=======
 # Surveillance robot being built by ZLabs, ZOHO Robotics Team
 
 ## Problem Statement
