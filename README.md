@@ -19,4 +19,7 @@ new line added
 
 test line
 
-to test the branch merge
+Camera is working now 
+Basic command: libcamera-hello --qt-preview --camera 0
+and tested the conversion of h264 to mp4 and its working good now We should test the rfid + camera integrated code 
+
